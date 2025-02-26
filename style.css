@@ -1,0 +1,25 @@
+header{
+    color:#9900ff;
+    background-color:#000000;
+    font-size: x-large;
+    text-align: center;
+}
+
+main{
+    color:#00ffff; 
+    background-color:#000000;
+    text-align: center;
+}
+
+footer{
+    color: #00ffff;
+    background-color: #000000;
+}
+
+body{
+    background-color: #000000;
+}
+
+img{
+    width: 1000px;
+}
